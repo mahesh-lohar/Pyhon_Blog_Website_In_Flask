@@ -1,0 +1,8 @@
+ .mahesh {
+  position: relative;
+  top: 0;
+  transition: top ease 0.5s;
+}
+.mahesh:hover {
+  top: -10px;
+}
